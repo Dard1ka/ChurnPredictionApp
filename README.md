@@ -1,4 +1,4 @@
-Churn Prediction App
+# Churn Predictor App
 The Churn Prediction application is an Android application that predicts whether a customer will churn (unsubscribe) or not, based on customer data input.
 
 Experimental Models : 
